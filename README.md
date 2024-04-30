@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/hanzo-alpha/filastartkit.svg?style=flat-square)](https://packagist.org/packages/hanzo-alpha/filastartkit)
-[![Laravel](https://github.com/hanzo-alpha/filastartkit/actions/workflows/laravel.yml/badge.svg)](https://github.com/hanzo-alpha/filastartkit/actions/workflows/laravel.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/hanzo-alpha/filastartkit.svg?style=flat-square)](https://packagist.org/packages/hanzo-alpha/filastartkit)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/hanzo-alpha/filastarkit.svg?style=flat-square)](https://packagist.org/packages/hanzo-alpha/filastarkit)
+[![Laravel](https://github.com/hanzo-alpha/filastarkit/actions/workflows/laravel.yml/badge.svg)](https://github.com/hanzo-alpha/filastarkit/actions/workflows/laravel.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/hanzo-alpha/filastarkit.svg?style=flat-square)](https://packagist.org/packages/hanzo-alpha/filastarkit)
 </div>
 <p align="center">
     A starting point to create my next Filament 3 💡 app. With pre-installed plugins, pre-configured, and custom page. 
@@ -64,7 +64,7 @@ php artisan migrate:fresh --seed
 Now you can access with `/admin` path, using:
 
 ```bash
-email: superadmin@filastartkit.local
+email: superadmin@filastarkit.local
 password: superadmin
 ```
 
@@ -105,4 +105,4 @@ These are [Filament Plugins](https://filamentphp.com/plugins) use for this proje
 
 Filament Starter is provided under the [MIT License](LICENSE.md).
 
-If you discover a bug, please [open an issue](https://github.com/hanzo-alpha/filastartkit/issues).
+If you discover a bug, please [open an issue](https://github.com/hanzo-alpha/filastarkit/issues).
