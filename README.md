@@ -2,7 +2,7 @@
   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/hanzo-alpha/filastarkit.svg?style=flat-square)](https://packagist.org/packages/hanzo-alpha/filastarkit)
-[![Laravel](https://github.com/hanzo-alpha/filastarkit/actions/workflows/laravel.yml/badge.svg)](https://github.com/hanzo-alpha/filastarkit/actions/workflows/laravel.yml)
+[![Workflows](https://github.com/hanzo-alpha/filastarkit/actions/workflows/laravel.yml/badge.svg)](https://github.com/hanzo-alpha/filastarkit/actions/workflows/laravel.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/hanzo-alpha/filastarkit.svg?style=flat-square)](https://packagist.org/packages/hanzo-alpha/filastarkit)
 </div>
 <p align="center">
